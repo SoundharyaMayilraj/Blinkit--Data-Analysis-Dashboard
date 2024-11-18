@@ -3,10 +3,10 @@ I utilized the Blinkit application data to uncover insights and trends through c
 
 Welcome to the Blinkit Data Analysis Project repository! This project leverages the Blinkit application data to perform an in-depth analysis using Power BI. The insights derived from this analysis are aimed at understanding customer preferences, sales trends, and other key performance metrics.
 
-Project Overview
+# Project Overview
 The Blinkit Project aims to provide a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Power BI, this project focuses on delivering actionable insights through various KPIs and visualizations to identify key opportunities for optimization.
 
-Project Steps
+# Project Steps
 Requirements Gathering/ Business Requirements
 Data Walkthrough
 Data Connection
@@ -21,14 +21,15 @@ Insights Generation
 Business Requirement
 The primary objective is to conduct a thorough analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Power BI. This analysis will focus on identifying key insights and opportunities for optimization based on various KPIs and visualizations.
 
-Project Objectives
+# Project Objectives
 The main objectives of this project were to:
 
 Analyze Sales Performance: To understand the overall and average sales performance across different dimensions.
 Identify Key Trends: To identify trends and patterns in sales based on item types, outlet locations, and establishment years.
 Evaluate Customer Preferences: To evaluate customer preferences and ratings for different items.
 Facilitate Informed Decision-Making: To provide stakeholders with actionable insights through interactive visualizations.
-Actionable Insights and Recommendations:
+
+# Actionable Insights and Recommendations:
 Diversify Product Range for Health Enthusiasts: Expand the range of low-fat products to meet growing demand from health-conscious customers.
 Optimize Outlet Locations: Focus on expanding in Tier 3 locations with higher sales performance..
 Enhance Product Assortment: Continue promoting top-performing categories like fruits and vegetables, Dairy Products while exploring new product lines.
